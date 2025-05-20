@@ -6,6 +6,7 @@ If you would only like to keep a few points from the grid, just rename those poi
 
 To use it, you can download 'FOL creator' notebook from the link above, and open it in [Google Colab](https://colab.research.google.com/).
 
+A tutorial video for this software can be found here: [https://drive.google.com/file/d/1Qiufm_gsh4P2XKkDn16TtKf3OJNEIRlG/view?usp=sharing](https://drive.google.com/file/d/1Qiufm_gsh4P2XKkDn16TtKf3OJNEIRlG/view?usp=sharing)
 
 
 ![alt text](Example%20grid.png)
